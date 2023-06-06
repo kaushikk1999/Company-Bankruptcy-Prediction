@@ -30,12 +30,12 @@ If you use this project in your research or find it helpful, please consider cit
 
 lessCopy code
 @misc{company-bankruptcy-prediction,
-  author = {Your Name},
+  author = {kaushik karmakar},
   title = {Company Bankruptcy Prediction},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/your-username/company-bankruptcy-prediction}},
+  howpublished = {\url{https://github.com/kaushikk1999/Company-Bankruptcy-Prediction.git}},
 }
 
 
